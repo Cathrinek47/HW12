@@ -1,0 +1,270 @@
+    1  ssh ßT git"github.com
+    2  ssh -T git"github.com
+    3  ssh ßT git"github.com
+    4  ssh -T git@github.com
+    5  ssh -T git"github.com
+    6  ssh -T git@github.com
+    7  git config --global -l
+    8  git config --global user.name "EkaterinaKutuzova"
+    9  git config --global user.email"cathrinek47@gmail.com"
+   10  git config --global -l
+   11  git config --global user.email "cathrinek47@gmail.com"
+   12  git config --global -l
+   13  git init
+   14  ls -la
+   15  > file1.txt
+   16  git status
+   17  git add file1.txt 
+   18  git status
+   19  git commit -m
+   20  git commit -m 'Init commit'
+   21  git log
+   22  git init
+   23  ssh -T git@github.com
+   24  echo "# test" >> README.md
+   25  git status
+   26  git add README.md
+   27  git commit -m 'second commit'
+   28  git branch -M main
+   29  git remote add origin git@github.com:EkaterinaKutuzova/REPO_Kutuzova.git
+   30  git push -u origin main
+   31  git remote add origin git@github.com:Cathrinek47/REPO_Kutuzova.git
+   32  git push -u origin main
+   33  ls -la
+   34  git push -u origin main
+   35  git log
+   36  mkdir git_intro
+   37  mkdir git_intro
+   38  git remote add origin git@github.com:Cathrinek47/init_intro.git
+   39  git remote add origin git@github.com:Cathrinek47/git_intro.git
+   40  cp C:\Users\Cathk\CAT.jfif C:\Users\Cathk\git_intro
+   41  cp C:/Users/Cathk/CAT.jfif C:/Users/Cathk/git_intro
+   42  git init
+   43  git add CAT.jfif
+   44  git commit -m "Added photo"
+   45  git branch -M main
+   46  git remote add origin git@github.com:Cathrinek47/git_intro.git
+   47  git remote origin git@github.com:Cathrinek47/git_intro.git
+   48  git remote git@github.com:Cathrinek47/git_intro.git
+   49  git push -u origin main
+   50  Test git ls -la
+   51  cp C:/Users/Cathk/CAT.jfif C:/Users/Cathk/git_intro
+   52  ls -la
+   53  cd git_intro
+   54  cd ..
+   55  git clone git@github.com:Cathrinek47/Git-220424-ptm.git
+   56  ls -la
+   57  cd Git-220424-ptm
+   58  git log
+   59  nano song.txt
+   60  cd Git-220424-ptm
+   61  ls -la
+   62  git status
+   63  git add .
+   64  git status
+   65  git commit -m "Add file song.txt"
+   66  git log
+   67  git remote -v
+   68  git push
+   69  git status
+   70  git log
+   71  ls -la
+   72  cd ..
+   73  ls -la
+   74  mkdir Test_Git
+   75  cd Test_Git
+   76  ls -la
+   77  cd ..
+   78  [200~
+   79  git remote add origin https://github.com/Cathrinek47/git_intro.git
+   80  git remote -v
+   81  git status
+   82  cd giy_intro
+   83  cd git_intro
+   84  git status
+   85  [200~git branch -M main
+   86  git push -u origin main
+   87  git pull
+   88  cd .. 
+   89  git pull
+   90  cd git_intro
+   91  git init
+   92  ls -la
+   93  git add CAT.jfif
+   94  git commit -m "Added photo"
+   95  git branch -M main
+   96  git remote add
+   97  git status
+   98  git remote add origin git@github.com:Cathrinek47/git_intro.git
+   99  git push -u origin main
+  100  git push -u
+  101  git pull 
+  102  git remote -v
+  103  git pull origin main
+  104  git fetch
+  105  git merge
+  106  git status
+  107  git pull origin main
+  108  git status
+  109  git remote -v
+  110  git push
+  111  git fetch
+  112  git merge origin/main
+  113  cd ..
+  114  ls -la
+  115  rm -r git_intro
+  116  rm -rf git_intro
+  117  git clone git@github.com:Cathrinek47/git_intro.git
+  118  cd git_intro
+  119  nano Song.txt
+  120  git commit -m "Add new song"
+  121  git push
+  122  git log
+  123  git status
+  124  git remote add orogin git@github.com:Cathrinek47/git_intro.git
+  125  git push -u origin main
+  126  git status
+  127  git branch -M main
+  128  git remote add orogin git@github.com:Cathrinek47/git_intro.git
+  129  git push -u origin main
+  130  git add Song.txt
+  131  git commit -m "Add new song"
+  132  git branch -M main
+  133  git remote add orogin git@github.com:Cathrinek47/git_intro.git
+  134  git push -u origin main
+  135  cp C:/Users/Cathk/CAT.jfif C:/Users/Cath/get_intro/CAT.jfif
+  136  cp C:/Users/Cathk/CAT.jfif C:/Users/Cath/git_intro/CAT.jfif
+  137  cp C:/Users/Cathk/CAT.jfif C:/Users/Cathk/git_intro/CAT.jfif
+  138  git add CAT.jfif
+  139  git status
+  140  git commit -m "Add new photo"
+  141  git branch -M main
+  142  git remote add orogin git@github.com:Cathrinek47/git_intro.git
+  143  git push -u origin main
+  144  exit
+  145  ls -la
+  146  cd Test_git
+  147  git init
+  148  nano song.txt
+  149  ls -la
+  150  git remote add
+  151  cd ..
+  152  git clone git@github.com:Cathrinek47/Test-git.git
+  153  cd Test-git
+  154  nano Song.txt
+  155  git add
+  156  git add Song.txt
+  157  git status
+  158  git commit -m 'Song'
+  159  git log
+  160  git branch -M main
+  161  git push
+  162  git status
+  163  cat song.txt
+  164  nano Song.txt
+  165  git commit -am 'New texts Song'
+  166  git log
+  167  git status
+  168  git commit --amend -m 'New comment - songs text'
+  169  git status
+  170  git log
+  171  nano Song.txt
+  172  git log
+  173  nano Song.txt
+  174  git commit -am 'Bed commit to github'
+  175  git log
+  176  ls -la
+  177  cd Test-git
+  178  ls -la
+  179  echo 'Text-1' >> File2.txt
+  180  git status
+  181  git checkout -b feature
+  182  echo 'text' >> file3.txt
+  183  ls -la
+  184  git add
+  185  git add .
+  186  git checkout main
+  187  ls -la
+  188  git merge feature 
+  189  echo 'text' >> file3.txt
+  190  echo 'text4' >> file3.txt
+  191  git commit -m 'commit 3,4'
+  192  git add
+  193  git add file3.txt
+  194  git commit -m 'commit 3,4'
+  195  ls -la
+  196  git clone git@github.com:Cathrinek47/HW12.git
+  197  git checkout -b feature
+  198  ls-la
+  199  ls-la
+  200  ls -la
+  201  cd HW12/
+  202  ls -la
+  203  cat README.md 
+  204  rm -rf .git
+  205  git checkout -b feature
+  206  git checkout -b feature
+  207  git checkout -b feat
+  208  nano .gitignore 
+  209  nano README.md 
+  210  git add .
+  211  git status
+  212  git commit -m 'Changed files'
+  213  git push
+  214  git branch -v
+  215  git branch -d feature
+  216  git branch -v
+  217  git status
+  218  ls -la 
+  219  cat README.md 
+  220  git status
+  221  git branch -v
+  222  git branch main
+  223  ls -la
+  224  cat README.md 
+  225  git merge main
+  226  git merge main
+  227  git branch main
+  228  git checkout main
+  229  git branch main
+  230  git merge main
+  231  ls -la
+  232  ls -la
+  233  git status
+  234  ls
+  235  where
+  236  clear
+  237  cd C:/Users/Cathk/OneDrive/Desktop
+  238  git clone git@github.com:Cathrinek47/HW12.git
+  239  ls -la
+  240  cd C:/Users/Cathk/OneDrive/Desktop/LINUX_Schule
+  241  ls -la
+  242  cd HW12/
+  243  ls -la
+  244  git status
+  245  nano .gitignore 
+  246  nano README.md 
+  247  git add .
+  248  git commit -m 'Commit from main'
+  249  git push
+  250  git checkout -b feature
+  251  git status
+  252  git branch -v
+  253  ls -la
+  254  nano .gitignore 
+  255  nano README.md 
+  256  git status
+  257  git add .
+  258  git commit -m 'Commit from branch Feature'
+  259  git status
+  260  git log
+  261  git push
+  262  git push --set-upstream origin feature
+  263  GIt commit --amend -m 'Commit with amend'
+  264  git status
+  265  git log
+  266  git checkout main
+  267  git branch -v
+  268  git merge main
+  269  git merge feature
+  270  history > history.txt
